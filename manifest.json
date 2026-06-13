@@ -1,0 +1,10 @@
+{
+  "id": "cquiz",
+  "name": "CQuiz",
+  "version":"1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Continuous Learning Material — Advanced Quiz Engine.",
+  "author": "carbon-softlab",
+  "authorUrl": "https://github.com/carbon-softlab/CQuiz",
+  "isDesktopOnly": false
+}
